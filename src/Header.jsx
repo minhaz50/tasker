@@ -6,7 +6,7 @@ export default function Header() {
       <div className="container mx-auto flex items-center justify-between gap-x-6">
         {/*  Logo  */}
         <a href="/">
-          <img className="h-[70px]  md:ml- " src={logo} alt="Lws" />
+          <img className="h-[70px]  md:ml-6" src={logo} alt="Lws" />
         </a>
       </div>
     </nav>

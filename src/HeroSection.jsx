@@ -15,7 +15,7 @@ export default function HeroSection() {
             />
           </div>
           <div>
-            <h1 className="text-8xl font-bold animate-bounce text-yellow-500 tracking-wider italic ">
+            <h1 className="text-8xl font-bold animate-bounce text-green-500 tracking-wider italic ">
               Tasker
             </h1>
             <p className="text-lg mt-6 my-2 opacity-60  tracking-wider ">
